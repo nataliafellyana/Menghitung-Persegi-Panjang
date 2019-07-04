@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoMath</string>
+    <string name="input_length">Masukkan Panjang</string>
+    <string name="input_width">Masukkan Lebar</string>
+    <string name="count">HITUNG</string>
+    <string name="output">HASIL</string>
+    <string name="description">Rumus Luas Persegi Panjang\nLuas = Panjang * Lebar</string>
+
+</resources>
